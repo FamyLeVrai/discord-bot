@@ -111,4 +111,4 @@ async def serverinfo(ctx):
     message = f"`{serverName}` contient {numberOfPerson} membres. \n La description du serveur est {serverDescription}. \n {serverName} contient {numberOfTextChannels} salon textuel et {numberOfVoiceChannels} salon vocaux"
     await ctx.send(message)
     
-bot.run("MTAzMjMwMDM1NTQ2OTQ0MzEwMg.GYNJFS.fkA60Iy4_wFHUWPYpq1HSDjbYa3XpfytH1PcBc")
+bot.run("MTAzMjMwMDM1NTQ2OTQ0MzEwMg.GPZm6N.lSX9NDgpbNM1jqfldXVfns0jXoKdkkzTdRsl1M")
